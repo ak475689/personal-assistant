@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1630768429 source:c:\users\akhil\desktop\dude final pls\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<ctime>
+
